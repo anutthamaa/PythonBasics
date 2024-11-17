@@ -1,0 +1,5 @@
+Service,Low,Medium,High,Row_Totals
+Excellent ,9,10,7,26
+Good,11,9,31,51
+Poor,12,8,3,23
+Column_Totals,32,27,41,100
